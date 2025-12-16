@@ -1,3 +1,7 @@
+## 2025-12-16
+
+- Update 'nvim-treesitter/nvim-treesitter' plugin to not explicitly use `main` branch as it is now the default.
+
 ## 2025-11-22
 
 - Update `<Leader>fs` mapping to use `"workspace_symbol_live"` scope for `:Pick lsp` instead of `"workspace_symbol"`
